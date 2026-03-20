@@ -92,7 +92,8 @@ stellar contract build
 ---
 
 
-<img width="1869" height="850" alt="image" src="https://github.com/user-attachments/assets/88757fa3-99d5-4a37-9d1e-f21c76756aab" />
+<img width="1826" height="873" alt="Screenshot 2026-03-20 143817" src="https://github.com/user-attachments/assets/b1d37200-4a1f-4ee8-abff-65a4d017d092" />
+
 
 contract adress : CC532SHR6BA4HWA5LISZO4PN55ZAM56X47BON4VS6AM3GQSBRDQTJMIL
 
