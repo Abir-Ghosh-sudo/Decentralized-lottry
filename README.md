@@ -6,7 +6,8 @@ This project is a **Decentralized Lottery Smart Contract** built using **Soroban
 
 Participants can enter the lottery, and an admin can securely select a winner. All data is stored on-chain, ensuring fairness and transparency.
 
----
+---<img width="1534" height="804" alt="Screenshot 2026-03-20 154823" src="https://github.com/user-attachments/assets/ed1e71f1-6a75-42b4-8b5c-8b4dcabc7c1d" />
+
 
 ## 🚀 What It Does
 
