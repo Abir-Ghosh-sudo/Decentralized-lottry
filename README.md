@@ -75,7 +75,7 @@ stellar contract build
 
 ## 🔗 Deployed Smart Contract
 
-👉 **Contract Link:** XXX
+👉 **Contract Link:** CC532SHR6BA4HWA5LISZO4PN55ZAM56X47BON4VS6AM3GQSBRDQTJMIL
 
 ---
 
